@@ -50,3 +50,23 @@ pulling from the forked repo with the following commands.
 git remote add upstream https://github.com/WillBAnders/GitDemo
 git pull upstream
 ```
+
+## Mission 3
+
+
+The following commands are used to create and switch to 
+new branches.
+
+```
+git branch
+git checkout -b new-branch
+git checkout existing-branch
+```
+
+Using these, add a new file to the repository (whatever 
+you would like!) and commit it to your fork.
+
+On GitHub, you should see the option to create a Pull 
+Request from your branch back to the original GitDemo 
+repository. Follow the steps there and we'll see what 
+results!
